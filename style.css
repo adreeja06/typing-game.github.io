@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* inside style.css */
 .highlight {
     background-color: yellow;
@@ -6,4 +7,14 @@
   .error {
     background-color: lightcoral;
     border: red;
+=======
+/* inside style.css */
+.highlight {
+    background-color: yellow;
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+>>>>>>> d8536b1232bfbe8477871b4c25705a33891e71c3
   }
