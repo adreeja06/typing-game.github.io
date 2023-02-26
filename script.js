@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-const quotes = [
+
+	const quotes = [
      "It does not do well to dwell on dreams and forget to live.",
      "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
      "It is our choices, Harry, that show what we truly are, far more than our abilities.",
